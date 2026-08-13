@@ -131,17 +131,17 @@ Currently Exploring:
 <a href="https://github.com/sportlive18">
   <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github" />
 </a>
-<a href="https://twitter.com/sportlive18">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/sportlive18">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:sayan@example.com">
-  <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://x.com/imVKohli970">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sayan-pal-8092a8330">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sayanpal514@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-**Portfolio:** [sport18-portfolio.pages.dev](https://sport18-portfolio.pages.dev/)
+**Portfolio:** [Sayan](https://sport18-portfolio.pages.dev/)
 
 </div>
 
